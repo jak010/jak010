@@ -5,8 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jak010" alt="jak010" /></a> </p>
 
 - 🌱 I’m currently learning **Pentesting, Django, Python**
-
-- 📝 I regularly write articles on [https://jakpentest.tistory.com/](https://jakpentest.tistory.com/)
+- My Pages
+  - write articles on Develop && Pentesting [https://jakpentest.tistory.com/](https://jakpentest.tistory.com/)
+  - write articles on Pentesting && CTF [https://jak010.github.io/cyberNote/readme/](https://jak010.github.io/cyberNote/readme/)
 
 - 📫 How to reach me **bluetoon@naver.com**
 
