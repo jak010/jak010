@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Pentesting, Django, Python**
 - My Pages
   - write articles on Develop && Pentesting [https://jakpentest.tistory.com/](https://jakpentest.tistory.com/)
-  - write articles on Pentesting && CTF [https://jak010.github.io/cyberNote/readme/](https://jak010.github.io/cyberNote/readme/)
+  - write articles on Pentesting && CTF [https://jak010.github.io/cyberNote/readme/](https://jak010.github.io/cyberNote/readme)
 
 - 📫 How to reach me **bluetoon@naver.com**
 
