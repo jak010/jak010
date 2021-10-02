@@ -1,4 +1,4 @@
-<h3 align="center">Jr.BackEnd Developer</h3>
+<h3 align="center"> Jako </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jak010&label=Profile%20views&color=0e75b6&style=flat" alt="jak010" /> </p>
 
