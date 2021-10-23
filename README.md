@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning **Pentesting, Django, Python**
 - My Pages
-  - write blog on [https://jakpentest.tistory.com/](https://jakpentest.tistory.com/)
-  - write git-page on [https://jak010.github.io/cyberNote/readme/](https://jak010.github.io/cyberNote/readme)
+  - Blog: [https://jakpentest.tistory.com/](https://jakpentest.tistory.com/)
+  - Cyber Security Note: [https://jak010.github.io/cyberNote/readme/](https://jak010.github.io/cyberNote/readme)
 
 
 <h3 align="left">Languages and Tools:</h3>
