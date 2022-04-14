@@ -1,7 +1,4 @@
 <h3 align="center"> Jako </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jak010&label=Profile%20views&color=0e75b6&style=flat"
-        alt="jak010" /> </p>
-
 - Jr, BackEnd Engineer
 - Blog: [https://jakpentest.tistory.com/](https://jakpentest.tistory.com/)
 - Cyber Security Note: [https://jak010.github.io/cyberNote/readme/](https://jak010.github.io/cyberNote/readme)
