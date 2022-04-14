@@ -1,7 +1,9 @@
 <h3 align="center"> Jako </h3>
-- Jr, BackEnd Engineer
-- Blog: [https://jakpentest.tistory.com/](https://jakpentest.tistory.com/)
-- Cyber Security Note: [https://jak010.github.io/cyberNote/readme/](https://jak010.github.io/cyberNote/readme)
+<ul>
+            <li><b>BackEnd Engineer</b></li>
+            <li><a href="https://jakpentest.tistory.com/">Blog</a></li>
+            <li><a href="https://jak010.github.io/cyberNote/readme">Github Page</a></li>
+</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
