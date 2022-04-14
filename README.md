@@ -1,5 +1,4 @@
 <h3 align="center"> Jako </h3>
-<a href="https://opgc.me/#/users/jak010" target="_blank"><img src="https://api.opgc.me/githubs/users/jak010/tag/?theme=basic" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jak010&label=Profile%20views&color=0e75b6&style=flat" alt="jak010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jak010" alt="jak010" /></a> </p>
