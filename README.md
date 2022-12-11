@@ -2,7 +2,7 @@
 
 ## Stack
 
-### Developed
+### Develop
 ![Build Status](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Build Status](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Build Status](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
