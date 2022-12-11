@@ -19,7 +19,10 @@
 ### Etc
 
 ![Build Status](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Build Status](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Build Status](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Build Status](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 
 
 ## Development
-BackEnd Development
+![Build Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jak010&theme=vue)
