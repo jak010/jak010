@@ -24,5 +24,8 @@
 ![Build Status](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 
 
-## Development
+## Status
+
 ![Build Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jak010&theme=vue)
+![Build Status](https://github-readme-stats.vercel.app/api/top-langs/?username=jak010)
+
