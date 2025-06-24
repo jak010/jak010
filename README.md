@@ -7,6 +7,25 @@ I believe that a well-designed system architecture outlasts implementation detai
 
 ![season version](profile-3d-contrib/profile-season-animate.svg)
 
+## 🔍 Characteristic
+
+- 🧱 **Builds for the long term**
+  - From small APIs to large-scale services, I think about how today's choices affect tomorrow's developers.
+- 🛠️ **Loves clean abstractions**:
+  -  I enjoy crafting code that speaks for itself and designing systems that scale with clarity.
+- ✍️ **Writes to learn**
+  -  Whether it’s documenting a tricky test setup or reflecting on tools like PyCrunch, I treat writing as part of the craft.
+- 🔄 **Iterates constantly**
+  -  I experiment, test, reflect — and repeat. Tools are replaceable, but reasoning skills aren't.
+
+<br>
+
+## 🧩 Philosophy
+I treat code not as a product, but as a process.  
+In a world of ever-changing requirements, **structure is what survives**.
+
+<br>
+
 ## Experience of Impact
 
 ### 🔐 Security & Reliability  
@@ -20,8 +39,6 @@ Experience in enhancing service security and ensuring system reliability through
   then designed and applied input validation limits to protect system stability.
 - **Performed security audits for public sector servers**  
   Conducted web and server vulnerability assessments following KISA guidelines for institutions such as Korea Land and Geospatial Informatix Corporation and Korea Transportation Safety Authority.
-
----
 
 ### ⚙️ Performance Optimization & Infrastructure  
 Experience optimizing legacy systems and improving infrastructure to boost performance and scalability.
@@ -44,18 +61,6 @@ Experience designing reusable system components and implementing automation to e
 - **Developed Python-based crawlers for dynamic content aggregation**  
   Built and deployed YouTube and Instagram crawlers using Selenium with dynamic rendering handling, successfully applied in healthcare content projects.
 
-
-## 🔍 Characteristic
-
-- 🧱 **Builds for the long term**
-  - From small APIs to large-scale services, I think about how today's choices affect tomorrow's developers.
-- 🛠️ **Loves clean abstractions**:
-  -  I enjoy crafting code that speaks for itself and designing systems that scale with clarity.
-- ✍️ **Writes to learn**
-  -  Whether it’s documenting a tricky test setup or reflecting on tools like PyCrunch, I treat writing as part of the craft.
-- 🔄 **Iterates constantly**
-  -  I experiment, test, reflect — and repeat. Tools are replaceable, but reasoning skills aren't.
-
 <br>
 
 ## 📘 Writing
@@ -63,13 +68,7 @@ Check out my [blog](https://jakpentest.tistory.com) for dev logs, experiments, a
 
 <br>
 
-## 🧩 Philosophy
-I treat code not as a product, but as a process.  
-In a world of ever-changing requirements, **structure is what survives**.
-
-<br>
-
 ## Contact 
 - Email : bluetoon@naver.com
-  
 
+<br>
