@@ -1,0 +1,35 @@
+name: 📰 Update Tistory Blog in Profile
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # 매 6시간마다 실행
+  workflow_dispatch:
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run update script
+        run: python scripts/update_blog.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'jak010'
+          git config --global user.email 'bluetoon@naver.com'
+          git diff
+          if [[ `git status --porcelain` ]]; then
+            git add README.md
+            git commit -m "📝 Update Tistory blog feed"
+            git push
+          fi
