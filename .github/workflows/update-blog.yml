@@ -1,10 +1,9 @@
 name: 📰 Update Tistory Blog in Profile
 
 on:
-  push: # push 이벤트 발생 시 실행
-    branches:
-      - main                # main 브랜치에 push가 발생할 때만
-    workflow_dispatch:
+  schedule:
+    - cron: "0 14 * * *"
+  workflow_dispatch:
 
 
 jobs:
