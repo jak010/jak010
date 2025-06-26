@@ -3,6 +3,9 @@ name: 📰 Update Tistory Blog in Profile
 on:
   schedule:
     - cron: '0 */6 * * *' # 매 6시간마다 실행
+  push:
+    - branches:
+        - main
   workflow_dispatch:
 
 jobs:
