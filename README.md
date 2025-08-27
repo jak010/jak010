@@ -75,11 +75,11 @@ Experience designing reusable system components and implementing automation to e
 Check out my [blog](https://jakpentest.tistory.com) for dev logs, experiments, and learnings.
 
 <!-- RECENTE ARTICLES START -->
+- [[Review] 아키텍트 첫 걸음](https://jakpentest.tistory.com/entry/Review-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8-%EC%B2%AB-%EA%B1%B8%EC%9D%8C) (2025-08-26)
 - [Named Parameter와 Builder Pattern](https://jakpentest.tistory.com/entry/Named-Parameter%EC%99%80-Builder-Pattern) (2025-08-13)
 - [[25년 7월] 발돋움](https://jakpentest.tistory.com/entry/25%EB%85%84-7%EC%9B%94-%EB%B0%9C%EB%8F%8B%EC%9D%8C) (2025-08-03)
 - [[25년 6월] 하루살이](https://jakpentest.tistory.com/entry/25%EB%85%84-6%EC%9B%94-%ED%95%98%EB%A3%A8%EC%82%B4%EC%9D%B4) (2025-07-02)
 - [AI 도구와 함께 달라진 코딩 환경](https://jakpentest.tistory.com/entry/AI-%EB%8F%84%EA%B5%AC%EC%99%80-%ED%95%A8%EA%BB%98-%EB%8B%AC%EB%9D%BC%EC%A7%84-%EC%BD%94%EB%94%A9-%ED%99%98%EA%B2%BD) (2025-06-29)
-- [코드가 너무 빨리 바뀐다, 그래서 PyCrunch다](https://jakpentest.tistory.com/entry/%EC%BD%94%EB%93%9C%EA%B0%80-%EB%84%88%EB%AC%B4-%EB%B9%A8%EB%A6%AC-%EB%B0%94%EB%80%90%EB%8B%A4-%EA%B7%B8%EB%9E%98%EC%84%9C-PyCrunch%EB%8B%A4) (2025-06-26)
 <!-- RECENTE ARTICLES END -->
 
 
