@@ -75,11 +75,11 @@ Experience designing reusable system components and implementing automation to e
 Check out my [blog](https://jakpentest.tistory.com) for dev logs, experiments, and learnings.
 
 <!-- RECENTE ARTICLES START -->
+- [JWK로 OAuth2 토큰 검증하기](https://jakpentest.tistory.com/472) (2025-11-03)
+- [사이드 프로젝트 품앗이를 정리하며](https://jakpentest.tistory.com/471) (2025-11-03)
 - [실무로 통하는 웹 API](https://jakpentest.tistory.com/470) (2025-09-22)
 - [[Review] 아키텍트 첫 걸음](https://jakpentest.tistory.com/469) (2025-08-26)
 - [Named Parameter와 Builder Pattern](https://jakpentest.tistory.com/468) (2025-08-13)
-- [AI 도구와 함께 달라진 코딩 환경](https://jakpentest.tistory.com/465) (2025-06-29)
-- [코드가 너무 빨리 바뀐다, 그래서 PyCrunch다](https://jakpentest.tistory.com/464) (2025-06-26)
 <!-- RECENTE ARTICLES END -->
 
 
