@@ -75,7 +75,7 @@ Experience designing reusable system components and implementing automation to e
 Check out my [blog](https://jakpentest.tistory.com) for dev logs, experiments, and learnings.
 
 <!-- RECENTE ARTICLES START -->
-- [Request &amp; Response Logging 하기](https://jakpentest.tistory.com/474) (2025-11-06)
+- [Spring Boot에서 HTTP Request &amp; Response Logging 하기](https://jakpentest.tistory.com/474) (2025-11-06)
 - [[품앗이] FastAPI 아키텍처 어떻게 가져갈 것인가?](https://jakpentest.tistory.com/473) (2025-11-04)
 - [[품앗이] JWK로 OAuth2 토큰 검증하기](https://jakpentest.tistory.com/472) (2025-11-03)
 - [사이드 프로젝트를 정리하며](https://jakpentest.tistory.com/471) (2025-11-03)
