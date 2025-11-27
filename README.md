@@ -75,11 +75,11 @@ Experience designing reusable system components and implementing automation to e
 Check out my [blog](https://jakpentest.tistory.com) for dev logs, experiments, and learnings.
 
 <!-- RECENTE ARTICLES START -->
+- [Cookie에 검색 조건을 설정하는 사이트도 있더라](https://jakpentest.tistory.com/477) (2025-11-27)
 - [크롤링 대상의 사이트가 변경되면 어떻게 대처하면 좋을까 ?](https://jakpentest.tistory.com/476) (2025-11-20)
 - [[품앗이] FastAPI에 적용했던 두 가지 포인트](https://jakpentest.tistory.com/475) (2025-11-10)
 - [Spring Boot에서 HTTP Request &amp; Response Logging 하기](https://jakpentest.tistory.com/474) (2025-11-06)
 - [[품앗이] FastAPI 아키텍처 어떻게 가져갈 것인가?](https://jakpentest.tistory.com/473) (2025-11-04)
-- [[품앗이] JWK로 OAuth2 토큰 검증하기](https://jakpentest.tistory.com/472) (2025-11-03)
 <!-- RECENTE ARTICLES END -->
 
 
