@@ -14,20 +14,20 @@ time I write code.
 ## Project
 
 - [(SIDE-PROJECT)POOMASI - BackEnd](https://github.com/jak010/be-poomasi-api)
-    - Designed and developed a backend API using FastAPI, applying DDD (Domain-Driven Design) with a layered
-      architecture
-    - Implemented pure domain models by separating business logic from persistence using SQLAlchemy Imperative
-      Mapping
-    - Adopted dependency injection with python-dependency-injector to reduce coupling and improve testability
-    - Encapsulated complex business logic into a dedicated Use Case layer, covering account management, Q&A, company
-      and job
-      postings, and skill/domain management
-    - Integrated external services such as AWS S3, Kakao OAuth/OIDC, Firebase Cloud Messaging, Slack, and Toss using
-      the
-      Adapter pattern
-    - Enhanced system scalability and maintainability through middleware-based event handling, authentication,
-      security, and
-      performance optimizations
+    - **Domain-Centric Architecture with DDD**
+        - Designed and developed the backend using FastAPI with Domain-Driven Design and a layered architecture.
+        - Clearly separated Domain, Use Case, Interface, and Infrastructure layers to keep business logic
+          independent and resilient to change.
+    - **Pure Domain Model & Testable Design**
+        - Implemented pure domain models by separating business logic from persistence using SQLAlchemy Imperative
+          Mapping.
+        - Adopted dependency injection with `python-dependency-injector` to reduce coupling and significantly improve
+          testability and maintainability.
+    - **Use Case–Driven Business Logic & External Integration**
+        - Encapsulated complex business logic into a dedicated Use Case layer covering account management, Q&A,
+          company/job postings, and skill/domain management.
+        - Integrated external services (AWS S3, Kakao OAuth/OIDC, FCM, Slack, Toss) via the Adapter pattern and
+          improved scalability through middleware-based authentication, security, and event handling.
 
 ## Writing
 
@@ -106,8 +106,7 @@ productivity.
   maintainability.
 - **Developed Python-based crawlers for dynamic content aggregation**  
   Built and deployed YouTube and Instagram crawlers using Selenium with dynamic rendering handling, successfully applied
-  in healthcare content
-  projects.
+  in healthcare content projects.
 
 <br>
 
