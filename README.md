@@ -34,11 +34,11 @@ time I write code.
 Check out my [blog](https://jakpentest.tistory.com) for dev logs, experiments, and learnings.
 
 <!-- RECENTE ARTICLES START -->
-- [25년 회고](https://jakpentest.tistory.com/481) (2025-12-23)
 - [TryHackMe : Cheese](https://jakpentest.tistory.com/480) (2025-12-08)
 - [TryHackMe : gallery](https://jakpentest.tistory.com/479) (2025-12-05)
 - [TryHackMe : Dreaming](https://jakpentest.tistory.com/478) (2025-12-05)
 - [Cookie에 검색 조건을 설정하는 사이트도 있더라](https://jakpentest.tistory.com/477) (2025-11-27)
+- [크롤링 대상의 사이트가 변경되면 어떻게 대처하면 좋을까 ?](https://jakpentest.tistory.com/476) (2025-11-20)
 <!-- RECENTE ARTICLES END -->
 
 ## 🔍 Characteristic
