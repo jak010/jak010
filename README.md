@@ -34,11 +34,11 @@ time I write code.
 Check out my [blog](https://jakpentest.tistory.com) for dev logs, experiments, and learnings.
 
 <!-- RECENTE ARTICLES START -->
+- [FastAPI + Supabase 에서 Pooling 문제 해결하기](https://jakpentest.tistory.com/487) (2026-03-28)
+- [Railway에서 SMTP가 막힌다.](https://jakpentest.tistory.com/486) (2026-03-28)
 - [[한빛미디어 - 나는리뷰어다 2026] AI 에이전트 엔지니어링](https://jakpentest.tistory.com/485) (2026-03-01)
 - [FastAPI Form List 파싱: Enum을 함께 쓰면 왜 실패할까](https://jakpentest.tistory.com/484) (2026-02-06)
 - [환경변수 관리 도구인 Infisical 에 대한 노트](https://jakpentest.tistory.com/483) (2026-01-22)
-- [Docker를 이용한 Swap 메모리 증설과 OOM 테스트](https://jakpentest.tistory.com/482) (2025-12-30)
-- [TryHackMe : Cheese](https://jakpentest.tistory.com/480) (2025-12-08)
 <!-- RECENTE ARTICLES END -->
 
 ## 🔍 Characteristic
