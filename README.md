@@ -36,7 +36,7 @@ Check out my [blog](https://jakpentest.tistory.com) for dev logs, experiments, a
 <!-- RECENTE ARTICLES START -->
 - [[나는리뷰어다2026] LLMOps 완벽가이드](https://jakpentest.tistory.com/491) (2026-06-27)
 - [[나는리뷰어다2026] 클린아키텍처 with 파이썬](https://jakpentest.tistory.com/490) (2026-05-23)
-- [클라우드 애플리케이션 아키텍처 패턴](https://jakpentest.tistory.com/489) (2026-04-24)
+- [[나는리뷰어다2026] 클라우드 애플리케이션 아키텍처 패턴](https://jakpentest.tistory.com/489) (2026-04-24)
 - [블로그 소개](https://jakpentest.tistory.com/notice/488) (2026-04-12)
 - [FastAPI + Supabase 에서 Pooling 문제 해결하기](https://jakpentest.tistory.com/487) (2026-03-28)
 <!-- RECENTE ARTICLES END -->
