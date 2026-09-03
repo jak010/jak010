@@ -34,11 +34,11 @@ time I write code.
 Check out my [blog](https://jakpentest.tistory.com) for dev logs, experiments, and learnings.
 
 <!-- RECENTE ARTICLES START -->
+- [호기심이 사라졌다.](https://jakpentest.tistory.com/497) (2026-09-03)
 - [한빛미디어 - 나는리뷰어다2026, AI 시대의 엔지니어링 전략](https://jakpentest.tistory.com/496) (2026-08-27)
 - [3. AI 가지고 놀기 - PoorMan의 AI Remote Control](https://jakpentest.tistory.com/494) (2026-08-12)
 - [2. AI 가지고 놀기 -  Antigravity에서 OpenCode](https://jakpentest.tistory.com/493) (2026-08-07)
 - [1. AI 가지고 놀기 -  Antigravity 와 테스트 코드](https://jakpentest.tistory.com/492) (2026-07-27)
-- [[나는리뷰어다2026] LLMOps 완벽가이드](https://jakpentest.tistory.com/491) (2026-06-27)
 <!-- RECENTE ARTICLES END -->
 
 ## 🔍 Characteristic
